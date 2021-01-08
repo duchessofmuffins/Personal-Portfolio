@@ -12,7 +12,7 @@
 My basic React Portfolio
 
 ## Installation
-npm i
+npm install
 
 ## Contributors
 Myself
