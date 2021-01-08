@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-*[Description](#description)
-*[Installation](#installation)
-*[Contributors](#contributors)
-*[Run](#run)
-*[Questions](#questions)
+* [Description](#description)
+* [Installation](#installation)
+* [Contributors](#contributors)
+* [Run](#run)
+* [Questions](#questions)
 
 ## Description
 My basic React Portfolio
