@@ -1,6 +1,10 @@
-.row-one {
-    padding: 20px 5%;
+.profile {
+  width: 200px;
+  border-radius: 50%;
 }
-h3 {
-    text-align: center;
+.col-8 {
+  float: left;
+}
+.col-2 {
+  float: right;
 }
