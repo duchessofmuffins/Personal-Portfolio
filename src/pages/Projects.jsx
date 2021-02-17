@@ -19,7 +19,7 @@ class Home extends Component {
               <p>
                 <ul>
                   <li>A specialized movie database focusing on Halloween movies and ranking them either by Spookiness levels, or by whether or not they are ‘Halloween’ movies.</li>
-                  <li>Role Played: Seeding data, researching movies, database construction/deployment.</li>
+                  <li>Role: Seeding data, researching movies, database construction/deployment.</li>
                   <li>Technologies Used: JavaScript, MySQL, HTML, CSS, NodeSQL, Prettier, ESLint, OMdB, IMdB, Github, Heroku</li>
                 </ul>
               </p>
@@ -35,7 +35,7 @@ class Home extends Component {
               <p>
                 <ul>
                   <li>A task manager application where different projects can be separated, broken down into individual parts, edited, and deleted as necessary.</li>
-                  <li>Role Played: General scheduling, front-end CSS, bug testing, component debugging</li>
+                  <li>Role: General scheduling, front-end CSS, bug testing, component debugging</li>
                   <li>Technologies Used: JavaScript, MySQL, HTML, CSS, React, Github, Heroku</li>
                 </ul>
               </p>
@@ -51,7 +51,7 @@ class Home extends Component {
               <p>
                 <ul>
                   <li>A compilation of personal artwork with traditional and digital media.</li>
-                  <li>Role Played: Sole creator, editor, contributor, and coder.</li>
+                  <li>Role: Sole creator, editor, contributor, and coder.</li>
                   <li>Technologies Used: React, CSS, HTML, JavaScript, Github, Heroku</li>
                 </ul>
               </p>
